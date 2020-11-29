@@ -9,5 +9,5 @@ Email: wenzela@purdue.edu, lin1019@purdue.edu, chen2946@purdue.edu, cdemuyt@purd
 
 void main(){
         printf("\ntest\n");
-        //test
+        printf("Hi");
 }
